@@ -29,6 +29,8 @@ Generate Pyrogram String Session Using this bot.
 ### Note:
 This was First made by [Krishna Singhal](https://github.com/Krishna-Singhal). Thanks a lot for his nice Bot. [I](https://github.com/AbirHasan2005) just made some little changes to make the bot more good looking. Also [I](https://github.com/AbirHasan2005) added [Deploy to Heroku](https://github.com/AbirHasan2005/TG-String-Session#deploy-now) Button for easy Deploies. I don't own this repo fully.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Demisexx/TgSession)
+
 ## Follow on:
 <p align="left">
 <a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
